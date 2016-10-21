@@ -8,7 +8,7 @@
  <?php echo '<p>Open Container Platform</p>'; ?>
  </font></b></font></center>
  <center>
- <?php echo '<p>Development Website v0.2</p>'; ?>
+ <?php echo '<p>Development Website v0.3</p>'; ?>
  </center>
  </body>
 </html>

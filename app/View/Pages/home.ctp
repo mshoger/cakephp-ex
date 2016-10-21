@@ -3,9 +3,11 @@
   <title>PHP Test</title>
  </head>
  <body>
- <font color=red>
+ <center><font color=red><b><font size=6>
  <?php echo '<p>Open Container Platform</p>'; ?>
- </font>
+ </font></b></font></center>
+ <center>
  <?php echo '<p>Development Website v0.1</p>'; ?>
+ </center>
  </body>
 </html>

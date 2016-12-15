@@ -6,7 +6,7 @@
  <body>
 
  <center>
- <img src="https://www.openshift.com/images/openshift.svg" height="42" width="42">
+ <img src="https://www.openshift.com/images/openshift.svg" height="400" width="400">
  </center>
 
  <center><font color=red><b><font size=6>
@@ -14,7 +14,12 @@
  </font></b></font></center>
 
  <center>
- <?php echo '<p>Development Website v0.4</p>'; ?>
+ <?php echo '<p>Development Website v0.5</p>'; ?>
+ <?php echo gethostname(); ?>
+
+bash
+
+echo $(hostname)
  </center>
 
  </body>

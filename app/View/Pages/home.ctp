@@ -15,7 +15,9 @@
 
  <center>
  <?php echo '<p>Development Website v0.6</p>'; ?>
- <?php echo php_uname('n') ?>
+ <?php
+ echo gethostname();
+ ?>
  </center>
 
  </body>

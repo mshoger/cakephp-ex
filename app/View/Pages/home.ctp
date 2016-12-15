@@ -15,11 +15,6 @@
 
  <center>
  <?php echo '<p>Development Website v0.5</p>'; ?>
- <?php echo gethostname(); ?>
-
-bash
-
-echo $(hostname)
  </center>
 
  </body>

@@ -3,7 +3,7 @@
   <title>PHP Test</title>
   <meta http-equiv="refresh" content="15" />
  </head>
- <body bgcolor=green>
+ <body>
 
  <center>
  <img src="https://www.openshift.com/images/openshift.svg" height="400" width="400">
@@ -14,7 +14,7 @@
  </font></b></font></center>
 
  <center>
- <?php echo '<p>Development Website v1.0.3</p>'; ?>
+ <?php echo '<p>Development Website v1.0.4</p>'; ?>
  <?php
  echo gethostname();
  ?>

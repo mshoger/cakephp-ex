@@ -14,7 +14,8 @@
  </font></b></font></center>
 
  <center>
- <?php echo '<p>Development Website v0.5</p>'; ?>
+ <?php echo '<p>Development Website v0.6</p>'; ?>
+ <?php echo gethostname(); ?>
  </center>
 
  </body>

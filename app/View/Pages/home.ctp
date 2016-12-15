@@ -6,7 +6,7 @@
  <body>
 
  <center>
- <img src="https://www.openshift.com/images/openshift.svg">
+ <img src="https://www.openshift.com/images/openshift.svg" height="42" width="42">
  </center>
 
  <center><font color=red><b><font size=6>
